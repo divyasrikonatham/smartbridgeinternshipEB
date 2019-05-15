@@ -2,7 +2,7 @@
  * intensity.c
  *
  * Created: 14-05-2019 15:31:17
- * Author : AMRUTHA
+ * Author : DIVYA SRI
  */ 
 
 #include <avr/io.h>
