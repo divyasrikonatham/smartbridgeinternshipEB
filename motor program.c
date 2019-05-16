@@ -2,7 +2,7 @@
  * motor1.c
  *
  * Created: 15-05-2019 14:12:31
- * Author : AMRUTHA
+ * Author : DIVYA SRI
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
