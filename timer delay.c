@@ -2,7 +2,7 @@
  * timer delay.c
  *
  * Created: 15-05-2019 10:32:48
- * Author : AMRUTHA
+ * Author : DIVYA SRI
  */ 
 
 #include<avr/io.h>
