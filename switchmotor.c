@@ -2,7 +2,7 @@
  * switchpotmotor.c
  *
  * Created: 15-05-2019 15:46:35
- * Author : AMRUTHA
+ * Author : DIVYA SRI
  */
  #define F_CPU 8000000UL
  #include <avr/io.h>
