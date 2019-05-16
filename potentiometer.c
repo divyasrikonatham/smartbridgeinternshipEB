@@ -2,7 +2,7 @@
  * PWM1.c
  *
  * Created: 15-05-2019 12:33:38
- * Author : AMRUTHA
+ * Author : DIVYA SRI
  */ 
 
 #include <avr/io.h>
