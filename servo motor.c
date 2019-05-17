@@ -2,7 +2,7 @@
  * servo motor.c
  *
  * Created: 16-05-2019 14:57:38
- * Author : AMRUTHA
+ * Author : DIVYA SRI
  */ 
 
 
