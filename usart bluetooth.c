@@ -6,7 +6,7 @@
  * usart.c
  *
  * Created: 16-05-2019 11:24:22
- * Author : AMRUTHA
+ * Author : DIVYA SRI
 */
 #ifndef F_CPU
 #define F_CPU 16000000UL
